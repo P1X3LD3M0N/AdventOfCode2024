@@ -1,0 +1,12 @@
+# Ignore .metals folder
+.metals/
+
+# Ignore .scala-build folder
+.scala-build/
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore Question2.class inside Q2 folder
+Q2/Question2.class
+Q2/Question2$.class
